@@ -23,5 +23,5 @@ Para simular os circuitos, instale o Logisim e abra os arquivos `.circ` com o ap
 <img width="628" height="436" alt="image" src="https://github.com/user-attachments/assets/d2b20e9f-0d32-4adc-82b1-e611f805be4e" />
 
 ### Via dados de 32 bits
-<img width="1277" height="830" alt="image" src="https://github.com/user-attachments/assets/6896b6a4-9d9f-499e-b10e-c41834c76eab" />
+<img width="1256" height="826" alt="image" src="https://github.com/user-attachments/assets/862324dc-41c2-4b0e-a8bf-bac29b8fa464" />
 
